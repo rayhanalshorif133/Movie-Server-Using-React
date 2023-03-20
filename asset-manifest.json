@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-Server-Using-React/static/css/main.651500a4.css",
+    "main.js": "/Movie-Server-Using-React/static/js/main.a62ad158.js",
+    "index.html": "/Movie-Server-Using-React/index.html",
+    "main.651500a4.css.map": "/Movie-Server-Using-React/static/css/main.651500a4.css.map",
+    "main.a62ad158.js.map": "/Movie-Server-Using-React/static/js/main.a62ad158.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651500a4.css",
+    "static/js/main.a62ad158.js"
+  ]
+}
